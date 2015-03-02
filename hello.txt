@@ -1,3 +1,2 @@
 hello world
-My project ATDsolution
-the 3rd version
+this is my project ATDsolution
