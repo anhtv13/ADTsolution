@@ -70,7 +70,7 @@
             this.Controls.Add(this.panelTop);
             this.Controls.Add(this.userControlMenu);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Form";
             this.panelTop.ResumeLayout(false);
             this.ResumeLayout(false);
 
