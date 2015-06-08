@@ -1,2 +1,2 @@
 # ADTsolution
-my project ADT solution
+my project ATD solution
